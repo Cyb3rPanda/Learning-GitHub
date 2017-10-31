@@ -119,7 +119,7 @@ $ git add -A
 
 RodriguezJL@LT-RODRIGUEZJL MINGW64 /c/github/Learning-Python (master)
 
-$ git commit -m "cambios"
+$ git commit -m "Comment example"
 
 On branch master
 Your branch is ahead of 'origin/master' by 1 commit.

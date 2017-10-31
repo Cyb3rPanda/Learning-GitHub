@@ -98,3 +98,20 @@ Fast-forward
  create mode 100644 GitBash_Commands.md
 *********************************************************************************
 
+7. Can I update files in the web with changes that I made in my computer?
+
+At the first time you try to update your files in the web, its important to config the user name and user mail of GitHub. The commands to config the user and the mail are " git config --global user.name "user_example" " and " git config --global user.mail "example@gmail" "
+
+*********************************************************************************
+RodriguezJL@LT-RODRIGUEZJL MINGW64 /c/github/Learning-Python (master)
+
+$ git config --global user.name "user_example"
+
+RodriguezJL@LT-RODRIGUEZJL MINGW64 /c/github/Learning-Python (master)
+
+$ git config --global user.mail "example@gmail"
+*********************************************************************************
+
+after config your user and mail, yoy need to use these commands "git add -A", " git commit -m "example of comment" " and "git push"
+
+

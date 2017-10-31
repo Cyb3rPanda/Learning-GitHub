@@ -102,6 +102,8 @@ Fast-forward
 
 At the first time you try to update your files in the web, its important to config the user name and user mail of GitHub. The commands to config the user and the mail are " git config --global user.name "user_example" " and " git config --global user.mail "example@gmail" "
 
+after config your user and mail, yoy need to use these commands "git add -A", " git commit -m "example of comment" " and "git push"
+
 *********************************************************************************
 RodriguezJL@LT-RODRIGUEZJL MINGW64 /c/github/Learning-Python (master)
 
@@ -110,8 +112,34 @@ $ git config --global user.name "user_example"
 RodriguezJL@LT-RODRIGUEZJL MINGW64 /c/github/Learning-Python (master)
 
 $ git config --global user.mail "example@gmail"
+
+RodriguezJL@LT-RODRIGUEZJL MINGW64 /c/github/Learning-Python (master)
+
+$ git add -A
+
+RodriguezJL@LT-RODRIGUEZJL MINGW64 /c/github/Learning-Python (master)
+
+$ git commit -m "cambios"
+
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+RodriguezJL@LT-RODRIGUEZJL MINGW64 /c/github/Learning-Python (master)
+
+$ git push
+
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 1.69 KiB | 863.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/Cyb3rPanda/Learning-Python.git
+   eb781d8..7dc575c  master -> master
+
+RodriguezJL@LT-RODRIGUEZJL MINGW64 /c/github/Learning-Python (master)
+$
+
 *********************************************************************************
-
-after config your user and mail, yoy need to use these commands "git add -A", " git commit -m "example of comment" " and "git push"
-
-

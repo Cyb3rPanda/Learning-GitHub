@@ -14,6 +14,7 @@ $ pwd
 
 RodriguezJL@LT-RODRIGUEZJL MINGW64 /
 $ ls
+
 bin/  etc/           LICENSE.txt  ReleaseNotes.html  unins000.exe*
 cmd/  git-bash.exe*  mingw64/     tmp/               unins000.msg
 dev/  git-cmd.exe*   proc/        unins000.dat       usr/
@@ -23,6 +24,7 @@ $ cd /c/github/
 
 RodriguezJL@LT-RODRIGUEZJL MINGW64 /c/github
 $ ls
+
 how_to_create_a_new_repository_git_hub.docx  Learning-GitHub/  Learning-Python/
 
 RodriguezJL@LT-RODRIGUEZJL MINGW64 /c/github

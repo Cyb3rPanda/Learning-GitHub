@@ -1,13 +1,20 @@
 First Commands in GitBash
+
 1. Where am I??
+
 Comand: pwd
+
 2. what is the directory content?
+
 Comand: ls
+
 3. How to change my current working directory?
+
 Comand: cd
 
 Examplo of 1, 2, 3:
 *********************************************************************************
+
 RodriguezJL@LT-RODRIGUEZJL MINGW64 /
 $ pwd
 /

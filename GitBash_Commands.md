@@ -111,7 +111,7 @@ $ git config --global user.name "user_example"
 
 RodriguezJL@LT-RODRIGUEZJL MINGW64 /c/github/Learning-Python (master)
 
-$ git config --global user.mail "example@gmail"
+$ git config --global user.email example@gmail
 
 RodriguezJL@LT-RODRIGUEZJL MINGW64 /c/github/Learning-Python (master)
 

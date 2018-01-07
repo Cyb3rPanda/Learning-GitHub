@@ -60,7 +60,7 @@ $ mkdir github
 
 5. How can I clone a directory from a repository of GitHub (Web)?
 
-The directory /c/github/Learning-Python was created by using the command "got clone". You should code first the comand "git clone" and then the URL that is available when you choose a repository in GitHub.
+The directory /c/github/Learning-Python was created by using the command "git clone". You should code first the comand "git clone" and then the URL that is available when you choose a repository in GitHub.
 
 *********************************************************************************
 RodriguezJL@LT-RODRIGUEZJL MINGW64 /c/github

@@ -50,7 +50,7 @@ $
 
 4. How can I create a directory?
 
-For example, the directory /c/github was created by using the command "mkdir". Ypu should code first the command "mkdir" and then the name of the directory 
+For example, the directory /c/github was created by using the command "mkdir". You should code first the command "mkdir" and then the name of the directory 
 
 *********************************************************************************
 RodriguezJL@LT-RODRIGUEZJL MINGW64 /c
